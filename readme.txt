@@ -1,5 +1,4 @@
 contents:
 
 core java 
-html
-css
+java script
